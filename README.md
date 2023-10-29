@@ -1,21 +1,21 @@
 # NativeAndroidDevelopment
 
-# Android Development Course Syllabus
+# Flutter Development Course Syllabus
 
 ## Week 1
 
-- Introduction to Android development
-- What is Android?
-- How does the Android ecosystem work?
-- Basic Android concepts, such as activities, views, and intents
+- Introduction to Flutter
+- What is Flutter?
+- How does Flutter work?
+- Basic Flutter concepts, such as widgets, state management, and routing
 - Setting up your development environment
-  - Installing Android Studio
-  - Creating a new Android project
+  - Installing Flutter
+  - Creating a new Flutter project
   - Running your app on an emulator or device
 
 ## Week 2
 
-- Kotlin basics
+- Dart basics
   - Variables, functions, and objects
   - Classes and inheritance
   - Data types and operators
@@ -23,46 +23,48 @@
 
 ## Week 3
 
-- Jetpack Compose basics
-  - Composable functions
+- Flutter widget basics
   - Layout widgets
-  - Modifiers
-  - State management
+  - Text widgets
+  - Image widgets
+  - Input widgets
 
 ## Week 4
 
-- Building a simple user interface with Jetpack Compose
+- Flutter state management
+  - Stateful widgets
+  - The Provider package
+  - BLoC
+
+## Week 5
+
+- Flutter routing
+  - Named routes
+  - Dynamic routing
+
+## Week 6
+
+- Building a simple user interface with Flutter
   - Creating a layout hierarchy
   - Adding text, images, and buttons
   - Handling user input
 
-## Week 5
-
-- Navigation in Jetpack Compose
-  - Navigating between different screens
-  - Passing data between screens
-
-## Week 6
-
-- Data binding in Jetpack Compose
-  - Observing data changes
-  - Displaying data in the UI
-
 ## Week 7
 
-- Advanced Jetpack Compose topics
-  - Theming
-  - Animations
-  - Custom composables
+- Working with data in Flutter
+  - Local data storage
+  - Networking
+  - Parsing JSON responses
 
 ## Week 8
 
-- Working with APIs in Jetpack Compose
-  - Making HTTP requests
-  - Parsing JSON responses
-  - Displaying data from APIs in the UI
+- Advanced Flutter topics
+  - Theming
+  - Animations
+  - Custom widgets
 
 ## Week 9
 
-- Deploying mobile apps
-  - Publishing your app to the Google Play Store
+- Deploying Flutter apps
+  - Publishing your app to the Google Play Store and the Apple App Store
+
